@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-<h3> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Deepak Bhavsar </h3>
+<h3> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" _target="_blank" width="25px">, I'm Deepak Bhavsar </h3>
 
 - 🔭 I'm a Surat based Blockchain and Machine Learning Enthusiast. A Developer by Day and Tutor by Night.
 - 💻 I'm currently working as a full time solidity developer.
