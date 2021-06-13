@@ -2,6 +2,12 @@
 
 <h3> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Deepak Bhavsar </h3>
 
+- 🔭 I'm a Surat based Blockchain and Machine Learning Enthusiast. A Developer by Day and Tutor by Night.
+- 💻 I'm currently working as a full time solidity developer.
+- 🌱 I’m currently exploring blockchain.
+- 🤔 I’m looking for help to contribute to repo <a href="https://github.com/deepakbhavsar43/Python-to-ML">Python-to-ML</a>.
+- 💬 Ask me about anything related to Machine Learning, Blockchain & IoT.
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakbhavsar43&show_icons=true&locale=en&layout=compact" alt="shaileedesai12" /></p>
 
 ### About My Technical Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
@@ -9,7 +15,7 @@
 const Deepak = {
     pronouns: ["He" , "his"],
     code: ["Python", "Javascript", "Solidity", "Java"],
-    askMeAbout: ["Machine Learning", "Blockchain", "Python", "ML Algorithms"],
+    askMeAbout: ["Machine Learning", "Blockchain", "Python", "ML Algorithms", "Internet of Things"],
     technologies: {   
         Machine_Learning : {
             language : ["Python"],
