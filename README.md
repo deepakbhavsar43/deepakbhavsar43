@@ -8,17 +8,10 @@
 - 🤔 I’m looking for help to contribute to repo <a href="https://github.com/deepakbhavsar43/Python-to-ML">Python-to-ML</a>.
 - 💬 Ask me about anything related to Machine Learning, Blockchain & IoT.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakbhavsar43&show_icons=true&locale=en&layout=compact&hide=php&theme=dark" _target="_blank" alt="shaileedesai12" /></p>
-
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakbhavsar43&theme=dark&show_icons=true)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakbhavsar43&show_icons=true&locale=en&layout=compact&hide=php&theme=dark" _target="_blank" alt="shaileedesai12" /></p> ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakbhavsar43&theme=dark&show_icons=true)
 
 <!-- [![deepak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deepakbhavsar43)](https://github.com/anuraghazra/github-readme-stats) -->
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakbhavsar43&repo=github-readme-stats" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakbhavsar43&repo=convoychat" />
-</a>
+
 
 ### About My Technical Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 ``` js
