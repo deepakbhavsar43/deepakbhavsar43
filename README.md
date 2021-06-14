@@ -10,6 +10,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakbhavsar43&show_icons=true&locale=en&layout=compact&hide=php" _target="_blank" alt="shaileedesai12" /></p>
 
+[![deepak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deepakbhavsar43)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### About My Technical Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 ``` js
 const Deepak = {
