@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help to contribute to repo <a href="https://github.com/deepakbhavsar43/Python-to-ML">Python-to-ML</a>.
 - 💬 Ask me about anything related to Machine Learning, Blockchain & IoT.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakbhavsar43&show_icons=true&locale=en&layout=compact&hide=php&theme=dark" _target="_blank" alt="shaileedesai12" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakbhavsar43&show_icons=true&locale=en&layout=compact&hide=php&theme=dark" _target="_blank" alt="deepakbhavsar" /></p>
 
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakbhavsar43&theme=dark&show_icons=true)
 
