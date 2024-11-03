@@ -2,11 +2,11 @@
 
 <h3> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" _target="_blank" width="25px">, I'm Deepak Bhavsar </h3>
 
-- 🔭 I'm a Surat based Blockchain and Machine Learning Enthusiast. A Developer by Day and Tutor by Night.
-- 💻 I'm currently working as a full time solidity developer.
-- 🌱 I’m currently exploring blockchain.
+- 🔭 I'm a Surat-based Blockchain and Machine Learning Enthusiast. A Developer by Day and Tutor by Night.
+- 💻 I'm currently working as a full-time Blockchain developer.
+- 🌱 I’m currently exploring GenAI.
 - 🤔 I’m looking for help to contribute to repo <a href="https://github.com/deepakbhavsar43/Python-to-ML">Python-to-ML</a>.
-- 💬 Ask me about anything related to Machine Learning, Blockchain & IoT.
+- 💬 Ask me about anything related to Blockchain, GenAI & IoT.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakbhavsar43&show_icons=true&locale=en&layout=compact&hide=php&theme=dark" _target="_blank" alt="deepakbhavsar" /></p>
 
@@ -20,7 +20,7 @@
 const Deepak = {
     pronouns: ["He" , "his"],
     code: ["Python", "Javascript", "Solidity", "Java"],
-    askMeAbout: ["Machine Learning", "Blockchain", "Python", "ML Algorithms", "Internet of Things"],
+    askMeAbout: ["Blockchain", "Python", "GenAI", "ML Algorithms", "Internet of Things"],
     technologies: {   
         Machine_Learning : {
             language : ["Python"],
@@ -28,12 +28,13 @@ const Deepak = {
             data_visualization : ["Matplotlib", "Seaborn"]
         },
         Blockchain : {
-            blockchain : ["Ethereum"],
-            language : ["Solidity"]
+            blockchain : ["Ethereum", HyperLedger Fabric],
+            language : ["Solidity", NodeJS]
         }
     tools: ["VS Code", 
             "Jupyter Notebook",
-            "Truffle"]
+            "Truffle",
+            "Hardhat"]
     ] 
 }
 ```
