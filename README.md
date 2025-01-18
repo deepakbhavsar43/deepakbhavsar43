@@ -1,13 +1,34 @@
 <!-- ### Hi there 👋 -->
 
-<h3> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" _target="_blank" width="25px">, I'm Deepak Bhavsar </h3>
+<h3>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" _target="_blank" width="25px"> Hey, I'm Deepak Bhavsar </h3>
 
-- 🔭 I'm a Surat-based Blockchain and Machine Learning Enthusiast. A Developer by Day and Tutor by Night.
-- 💻 I'm currently working as a full-time Blockchain developer.
-- 🌱 I’m currently exploring GenAI.
-- 🤔 I’m looking for help to contribute to repo <a href="https://github.com/deepakbhavsar43/Python-to-ML">Python-to-ML</a>.
-- 💬 Ask me about anything related to Blockchain, GenAI & IoT.
+🔭 Blockchain & Generative AI Engineer<br>
+💻 Developer by Day | Tutor by Night<br>
+<br>
+<br>
+🚀 About Me<br>
+<li> 📍 Surat-based tech enthusiast with Blockchain, Generative AI, and IoT expertise.<br>
+<li> 💼 Currently working as a full-time Blockchain & GenAI Developer, solving real-world problems with innovative solutions.<br>
+<li> Passionate about creating and sharing knowledge through tutoring and open-source contributions.<br>
+<br>
+<br>
+💬 Ask Me About<br>
+<li> Blockchain: Smart contracts, EVM-based development, Hyperledger Fabric
+<li> Generative AI: AI model development, integrations, and innovations
+<li> IoT: Bridging physical and digital worlds
+<br>
+<br>
+🛠 Tech Stack<br>
+Blockchain: Solidity, Rust, Web3.js, Hyperledger Fabric<br>
+AI/ML: Python, TensorFlow, PyTorch, OpenAI APIs<br>
+Others: IoT Devices, Docker, Git, Linux<br>
 
+![skillicons](https://skillicons.dev/icons?i=py,solidity,flask,fastapi,git,docker,bash,mysql,github,gitlab,heroku,ipfs,js,netlify,nodejs,opencv,postgres,regex,ubuntu)
+
+🌐 Connect With Me
+<li> LinkedIn
+<li> Twitter
+<li> Email
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakbhavsar43&show_icons=true&locale=en&layout=compact&hide=php&theme=dark" _target="_blank" alt="deepakbhavsar" /></p>
 
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakbhavsar43&theme=dark&show_icons=true)
@@ -44,17 +65,3 @@ const Deepak = {
 </p>
 
 <a href="https://deepakbhavsar.com">➡️ Visit My Portfolio</a></h3>
-<!--
-**deepakbhavsar43/deepakbhavsar43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
