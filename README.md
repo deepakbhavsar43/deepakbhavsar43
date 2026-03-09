@@ -36,29 +36,6 @@ Others: IoT Devices, Docker, Git, Linux<br>
 <!-- [![deepak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deepakbhavsar43)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-### About My Technical Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
-``` js
-const Deepak = {
-    pronouns: ["He" , "his"],
-    code: ["Python", "Javascript", "Solidity", "Java"],
-    askMeAbout: ["Blockchain", "Python", "GenAI", "ML Algorithms", "Internet of Things"],
-    technologies: {   
-        Machine_Learning : {
-            language : ["Python"],
-            data_processing : ["Pandas", "Numpy", "Scipy"],
-            data_visualization : ["Matplotlib", "Seaborn"]
-        },
-        Blockchain : {
-            blockchain : ["Ethereum", HyperLedger Fabric],
-            language : ["Solidity", NodeJS]
-        }
-    tools: ["VS Code", 
-            "Jupyter Notebook",
-            "Truffle",
-            "Hardhat"]
-    ] 
-}
-```
 <p>
   <a href="https://github.com/deepakbhavsar43" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/deepakbhavsar43/"  target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
