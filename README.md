@@ -1,44 +1,95 @@
-<!-- ### Hi there 👋 -->
+<h1 align="center">Deepak Bhavsar</h1>
 
-<h3>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" _target="_blank" width="25px"> Hey, I'm Deepak Bhavsar </h3>
-
-🔭 Blockchain & Generative AI Engineer<br>
-💻 Developer by Day | Tutor by Night<br>
-<br>
-<br>
-🚀 About Me<br>
-<li> 📍 Surat-based tech enthusiast with Blockchain, Generative AI, and IoT expertise.<br>
-<li> 💼 Currently working as a full-time Blockchain & GenAI Developer, solving real-world problems with innovative solutions.<br>
-<li> Passionate about creating and sharing knowledge through tutoring and open-source contributions.<br>
-<br>
-<br>
-💬 Ask Me About<br>
-<li> Blockchain: Smart contracts, EVM-based development, Hyperledger Fabric
-<li> Generative AI: AI model development, integrations, and innovations
-<li> IoT: Bridging physical and digital worlds
-<br>
-<br>
-🛠 Tech Stack<br>
-Blockchain: Solidity, Rust, Web3.js, Hyperledger Fabric<br>
-AI/ML: Python, TensorFlow, PyTorch, OpenAI APIs<br>
-Others: IoT Devices, Docker, Git, Linux<br>
-
-![skillicons](https://skillicons.dev/icons?i=py,solidity,flask,fastapi,git,docker,bash,mysql,github,gitlab,heroku,ipfs,js,netlify,nodejs,opencv,postgres,regex,ubuntu)
-
-🌐 Connect With Me
-<li> LinkedIn
-<li> Twitter
-<li> Email
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakbhavsar43&show_icons=true&locale=en&layout=compact&hide=php&theme=dark" _target="_blank" alt="deepakbhavsar" /></p>
-
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakbhavsar43&theme=dark&show_icons=true)
-
-<!-- [![deepak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deepakbhavsar43)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-<p>
-  <a href="https://github.com/deepakbhavsar43" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/deepakbhavsar43/"  target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <b>AI Engineer | GenAI & Blockchain Specialist | Enterprise Solution Builder</b>
 </p>
 
-<a href="https://deepakbhavsar.com">➡️ Visit My Portfolio</a></h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=6%2B+Years+in+Software+Engineering;3%2B+Years+in+Generative+AI;RAG+%7C+NLQ+to+SQL+%7C+AI+Agents;Blockchain+%7C+Hyperledger+Fabric+%7C+EVM&amp;center=true&amp;width=700&amp;height=45&amp;color=2F81F7&amp;vCenter=true&amp;size=22" alt="Typing Intro" />
+</p>
+
+<p align="center">
+  <a href="https://deepakbhavsar.com"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/deepakbhavsar43/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:deepakbhavsar43@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+## About Me
+
+AI Engineer with 6+ years of total experience, including 3+ years building enterprise Generative AI and LLM applications. At Zensar Technologies, I deliver production-ready GenAI and Blockchain solutions for Data, HR, Finance, and Supply Chain domains.
+
+<table>
+  <tr>
+    <td><b>Location</b></td>
+    <td>Surat, Gujarat (Open to relocation - Pune/Bengaluru preferred)</td>
+  </tr>
+  <tr>
+    <td><b>Current Role</b></td>
+    <td>Software Engineer - Blockchain & GenAI at Zensar Technologies (Jun 2022 - Present)</td>
+  </tr>
+  <tr>
+    <td><b>Focus Areas</b></td>
+    <td>GenAI Platforms, NLQ to SQL, RAG Systems, Metadata Enrichment, Synthetic Data, Hyperledger Fabric</td>
+  </tr>
+</table>
+
+## Impact Snapshot
+
+<p>
+  <img src="https://img.shields.io/badge/Enterprise%20GenAI%20POCs-8%2B-success?style=flat-square" alt="GenAI POCs" />
+  <img src="https://img.shields.io/badge/RAG%20Retrieval%20Relevance-%2B40%25-blue?style=flat-square" alt="RAG Relevance" />
+  <img src="https://img.shields.io/badge/Query%20Latency--60%25-informational?style=flat-square" alt="Query Latency" />
+  <img src="https://img.shields.io/badge/Metadata%20Query%20Success-%2B60%25-important?style=flat-square" alt="Metadata Improvement" />
+  <img src="https://img.shields.io/badge/BNPL%20Settlement%20Time--90%25-critical?style=flat-square" alt="BNPL Settlement" />
+</p>
+
+## What I Build
+
+- LLM-powered enterprise products using Azure OpenAI, LangChain, LangGraph, FastAPI, Flask, and React
+- Natural language to SQL assistants with query optimization and visualization workflows
+- Retrieval-Augmented Generation systems with vector search, reranking, and multi-tenant document isolation
+- Blockchain applications including BNPL frameworks, supply chain traceability, NFT and DAO ecosystems
+
+## Tech Stack
+
+### Generative AI
+LLMs, RAG, Prompt Engineering, NLP, LangChain, LangGraph, Azure OpenAI (GPT-4, GPT-4o, GPT-3.5), Hugging Face, AI Agents
+
+### Backend and Data
+Python, FastAPI, Flask, Postgres, SQL, MongoDB, Snowflake, Azure Cognitive Search, AWS OpenSearch, Pinecone
+
+### Blockchain
+Solidity, EVM Chains, Hyperledger Fabric, Smart Contract Auditing, ERC-20/ERC-721/ERC-721A/ERC-1155, Web3.js, Truffle, Hardhat
+
+### Dev Tools
+Docker, Git, GitHub, VS Code, Linux
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,solidity,flask,fastapi,git,docker,bash,mysql,github,gitlab,js,nodejs,postgres,ubuntu" alt="Skill Icons" />
+</p>
+
+## Featured Projects
+
+| Project | Summary |
+|---|---|
+| Document Explorer | RAG + LangGraph document intelligence system with pgvector-backed retrieval |
+| Data Explorer (NLQ to SQL) | Business-friendly analytics with natural language querying and AI-generated insights |
+| Metadata Enrichment Tool | Schema enrichment + LLM query generation for higher SQL accuracy |
+| Synthetic Data Generation App | Multi-table synthetic dataset generation with privacy-safe PII handling |
+| BNPL on Blockchain | Reconciliation automation and faster settlement using Hyperledger Fabric |
+
+## Certifications
+
+- Ignite AI / GenAI Academy (Zensar)
+- Artificial Intelligence and Machine Learning (Skillsoft)
+- Python Programming and Generative AI
+- Blockchain Basics (Coursera)
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deepakbhavsar43&amp;theme=dark&amp;show_icons=true" alt="Deepak GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakbhavsar43&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;hide=php&amp;theme=dark" alt="Top Languages" />
+</p>
