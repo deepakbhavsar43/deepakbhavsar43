@@ -1,7 +1,7 @@
 <h1 align="center">Deepak Bhavsar</h1>
 
 <p align="center">
-  <b>AI Engineer | GenAI & Blockchain Specialist | Enterprise Solution Builder</b>
+  <b>Software Engineer | GenAI & Blockchain Specialist | Enterprise Solution Builder</b>
 </p>
 
 <p align="center">
