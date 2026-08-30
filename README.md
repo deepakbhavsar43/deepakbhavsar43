@@ -107,9 +107,10 @@ Docker, Git, GitHub, VS Code, Linux
 - 🎖️ **Gujarat Industrial Hackathon** (2019)
 - 💻 **Stack Overflow Contributor** — 40+ badges, 8,890+ reputation points
 
-## GitHub Analytics
+## GitHub & Open Source
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deepakbhavsar43&theme=dark&show_icons=true" alt="Deepak GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakbhavsar43&show_icons=true&locale=en&layout=compact&hide=php&theme=dark" alt="Top Languages" />
+  <a href="https://github.com/deepakbhavsar43"><img src="https://img.shields.io/badge/GitHub-Profile-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
+  <a href="https://github.com/deepakbhavsar43?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Visit-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" /></a>
+  <a href="https://stackoverflow.com/users/deepakbhavsar43"><img src="https://img.shields.io/badge/Stack%20Overflow-8%2C890%2B%20Rep-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 </p>
