@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=6%2B+Years+in+Software+Engineering;3%2B+Years+in+Generative+AI;RAG+%7C+NLQ+to+SQL+%7C+AI+Agents;Blockchain+%7C+Hyperledger+Fabric+%7C+EVM&amp;center=true&amp;width=700&amp;height=45&amp;color=2F81F7&amp;vCenter=true&amp;size=22" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=6%2B+Years+in+Software+Engineering;3%2B+Years+in+GenAI+%26+Blockchain;Hyperledger+Fabric+%26+Solidity;RAG+%7C+NL-to-SQL+%7C+Smart+Contracts&amp;center=true&amp;width=700&amp;height=45&amp;color=2F81F7&amp;vCenter=true&amp;size=22" alt="Typing Intro" />
 </p>
 
 <p align="center">
@@ -23,7 +23,11 @@ AI Engineer with 6+ years of total experience, including 3+ years building enter
 <table>
   <tr>
     <td><b>Location</b></td>
-    <td>Surat, Gujarat (Open to relocation - Pune/Bengaluru preferred)</td>
+    <td>Surat, Gujarat (Open to relocation - Pune/Bengaluru/Hyderabad preferred)</td>
+  </tr>
+  <tr>
+    <td><b>Contact</b></td>
+    <td>deepakbhavsar43@gmail.com | +91 9727681792</td>
   </tr>
   <tr>
     <td><b>Current Role</b></td>
@@ -43,6 +47,9 @@ AI Engineer with 6+ years of total experience, including 3+ years building enter
   <img src="https://img.shields.io/badge/Query%20Latency--60%25-informational?style=flat-square" alt="Query Latency" />
   <img src="https://img.shields.io/badge/Metadata%20Query%20Success-%2B60%25-important?style=flat-square" alt="Metadata Improvement" />
   <img src="https://img.shields.io/badge/BNPL%20Settlement%20Time--90%25-critical?style=flat-square" alt="BNPL Settlement" />
+  <img src="https://img.shields.io/badge/NLQ%20to%20SQL%20Accuracy-%2B60%25-blue?style=flat-square" alt="SQL Accuracy" />
+  <img src="https://img.shields.io/badge/Synthetic%20Data%20Gen--40%25-informational?style=flat-square" alt="AI/ML Acceleration" />
+  <img src="https://img.shields.io/badge/Stack%20Overflow-8%2C890%2B%20reputation-orange?style=flat-square" alt="Stack Overflow" />
 </p>
 
 ## What I Build
@@ -82,14 +89,27 @@ Docker, Git, GitHub, VS Code, Linux
 
 ## Certifications
 
-- Ignite AI / GenAI Academy (Zensar)
+- Ignite AI / GenAI Academy — Pioneering GenAI and AI-Assisted Engineering for DE&A (Zensar)
 - Artificial Intelligence and Machine Learning (Skillsoft)
 - Python Programming and Generative AI
 - Blockchain Basics (Coursera)
 
+## Education
+
+- **B. Tech in Computer Engineering** (2017 – 2020)
+- **Diploma in Computer Engineering** (2012 – 2015)
+
+## Recent Awards & Recognition
+
+- 🏆 **Team of the Quarter** — AI Automation & HT Support Team, Zensar Technologies (Q2 2026)
+- 🥉 **36th Rank** — Google Cloud DevJam Hands-on Challenge (2020)
+- 🎖️ **Artificial Intelligence & Deep Learning Hackathon** (2020)
+- 🎖️ **Gujarat Industrial Hackathon** (2019)
+- 💻 **Stack Overflow Contributor** — 40+ badges, 8,890+ reputation points
+
 ## GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deepakbhavsar43&amp;theme=dark&amp;show_icons=true" alt="Deepak GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakbhavsar43&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;hide=php&amp;theme=dark" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deepakbhavsar43&theme=dark&show_icons=true" alt="Deepak GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakbhavsar43&show_icons=true&locale=en&layout=compact&hide=php&theme=dark" alt="Top Languages" />
 </p>
