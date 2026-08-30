@@ -112,5 +112,5 @@ Docker, Git, GitHub, VS Code, Linux
 <p align="center">
   <a href="https://github.com/deepakbhavsar43"><img src="https://img.shields.io/badge/GitHub-Profile-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
   <a href="https://github.com/deepakbhavsar43?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Visit-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" /></a>
-  <a href="https://stackoverflow.com/users/deepakbhavsar43"><img src="https://img.shields.io/badge/Stack%20Overflow-8%2C890%2B%20Rep-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://stackoverflow.com/users/8550613/deepak-bhavsar"><img src="https://img.shields.io/badge/Stack%20Overflow-8%2C890%2B%20Rep-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 </p>
